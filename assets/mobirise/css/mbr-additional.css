@@ -517,6 +517,7 @@ h6,
 
 
 
+
 #features1-h .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -525,6 +526,18 @@ h6,
 }
 #features1-h .mbr-cards-col:nth-child(odd) .card-subtitle {
   font-family: 'Oswald', sans-serif;
+  text-align: left;
+  color: #efefef;
+}
+#features1-h .mbr-cards-col:nth-child(odd) .card-title {
+  text-align: center;
+}
+#features1-h .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
+  font-family: 'Roboto Condensed', sans-serif;
+  text-align: center;
+}
+#features1-h .mbr-cards-col:nth-child(odd) .card-subtitle P {
+  text-align: center;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
@@ -612,6 +625,7 @@ h6,
 
 
 
+
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -670,7 +684,7 @@ h6,
 }
 #menu-i .link[aria-expanded="true"],
 #menu-i .dropdown-item[aria-expanded="true"] {
-  color: #7e9b9f!important;
+  color: #7c706b!important;
 }
 #menu-i.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -682,6 +696,21 @@ h6,
 #menu-i .close-icon::after {
   background-color: #ffffff;
 }
+#footer1-l P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-10 .mbr-section-title,
+#msg-box3-10 p {
+  color: #000;
+}
+#msg-box3-10 .mbr-section-title P {
+  color: #28324e;
+}
+#msg-box3-10 .lead P {
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
 #social-buttons4-k .mbr-section-title,
 #social-buttons4-k .btn-social {
   color: #fff;
@@ -692,15 +721,17 @@ h6,
   font-size: 30px;
   font-family: 'Oxygen', sans-serif;
 }
-#footer1-l P {
-  font-family: 'Oswald', sans-serif;
+
+
+
+
+
+
+
+#content6-v P {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 18px;
 }
-
-
-
-
-
-
 #menu-o .hide-buttons .nav-btn {
   display: none !important;
 }
