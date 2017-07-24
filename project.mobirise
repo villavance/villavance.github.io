@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "newpacket.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -310,7 +310,7 @@
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -318,13 +318,13 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "newpacket.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title1": "New Program Development Packet - Curriculum &nbsp;",
+          "title1": "<a href=\"newpacket.html\">New Program Development Packet - Curriculum</a> &nbsp;",
           "subtitle1": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-style: normal;\">LTEC 5210 PROJECT</span></p>",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"newpacket.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
