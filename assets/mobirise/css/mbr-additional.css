@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -492,11 +493,13 @@ h6,
 #header1-1 .mbr-section-lead {
   color: #747272;
   font-family: 'Oxygen', sans-serif;
-  font-size: 20px;
+  font-size: 48px;
   text-align: left;
 }
 #header1-1 .mbr-section-lead SPAN {
-  font-size: 23px;
+  font-size: 36px;
+  color: #747272;
+  font-family: 'Oxygen', sans-serif;
 }
 #social-buttons4-b .mbr-section-title,
 #social-buttons4-b .btn-social {
