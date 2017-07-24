@@ -826,3 +826,103 @@ h6,
 #footer1-r P {
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+
+#menu-14 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-14 .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-14 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-14 .link,
+#menu-14 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-14 .link {
+  font-size: 1rem;
+}
+#menu-14 .dropdown-item,
+#menu-14 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-14 .link:hover,
+#menu-14 .dropdown-item:hover,
+#menu-14 .link:focus,
+#menu-14 .dropdown-item:focus {
+  color: #7c706b;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-menu {
+  background: #000000;
+}
+#menu-14 .nav-dropdown-sm .link:focus,
+#menu-14 .nav-dropdown-sm .link:hover,
+#menu-14 .nav-dropdown-sm .dropdown-item:focus,
+#menu-14 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-14 .navbar,
+#menu-14 .nav-dropdown-sm,
+#menu-14 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-14 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-14 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-14 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-14 .bg-color.transparent.opened .link:hover,
+#menu-14 .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#menu-14 .link[aria-expanded="true"],
+#menu-14 .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#menu-14.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-14 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-14 .close-icon::before,
+#menu-14 .close-icon::after {
+  background-color: #ffffff;
+}
+#footer1-15 P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-16 .mbr-section-title,
+#msg-box3-16 p {
+  color: #000;
+}
+#msg-box3-16 .mbr-section-title P {
+  color: #28324e;
+}
+#msg-box3-16 .lead P {
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+#social-buttons4-17 .mbr-section-title,
+#social-buttons4-17 .btn-social {
+  color: #fff;
+}
+#social-buttons4-17 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oxygen', sans-serif;
+}
