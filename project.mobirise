@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "writing.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -330,7 +330,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"newpacket.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/scholarly-pen-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/study-resources-600x347.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -340,7 +340,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Scholarly Writing",
+          "title2": "Study Resources",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
