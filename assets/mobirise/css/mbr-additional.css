@@ -12,6 +12,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -489,6 +490,8 @@ h6,
 #header1-1 .mbr-section-title {
   color: #515151;
   text-align: left;
+  font-family: 'Oswald', sans-serif;
+  font-size: 72px;
 }
 #header1-1 .mbr-section-lead {
   color: #41a85f;

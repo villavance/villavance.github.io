@@ -151,7 +151,10 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#515151",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "72px"
             },
             ".mbr-section-lead": {
               "color": "#41a85f",
@@ -188,7 +191,7 @@
             "showButtons": true
           },
           "title": "VILLA R. VANCE&nbsp;",
-          "text": "<br><span style=\"font-style: normal;\">Instructional <b>DeSIGNeR</b>, <b>TechNOLoGIST</b>, content<b> CReaTOR</b>, </span><span style=\"color: rgb(65, 168, 95); font-size: 36px; line-height: 1.5;\">technology </span><b style=\"line-height: 1.5;\">INTeGRAToR</b><span style=\"font-style: normal;\">, </span><span style=\"font-style: normal;\">course DeVeLOPER</span><span style=\"font-style: normal;\">, and a designer.&nbsp;A </span><b style=\"line-height: 1.5;\"><a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-warning\">photo enthusiast</a></b><span style=\"font-style: normal;\"> when other things fail.</span><br>",
+          "text": "<br><span style=\"font-style: normal;\">Instructional <b>DeSIGNeR</b>, <b>TechNOLoGIST</b>, content<b> CReaTOR</b>, </span><span style=\"color: rgb(65, 168, 95); font-size: 36px; line-height: 1.5;\">technology </span><b style=\"line-height: 1.5;\">INTeGRAToR</b><span style=\"font-style: normal;\">, </span><span style=\"font-style: normal;\">course <b>DeVeLOPER</b></span><span style=\"font-style: normal;\">, and a consultant.&nbsp;A </span><b style=\"line-height: 1.5;\"><a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-warning\">photo enthusiast</a></b><span style=\"font-style: normal;\"> when other things fail.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO SEE MY PORTFOLIO</a>   "
         },
         {
