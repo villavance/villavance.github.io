@@ -155,13 +155,13 @@
             },
             ".mbr-section-lead": {
               "color": "#41a85f",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px",
               "text-align": "left"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "36px",
+              "font-size": "46px",
               "color": "#e25041",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -188,7 +188,7 @@
             "showButtons": true
           },
           "title": "VILLA R. VANCE&nbsp;",
-          "text": "<br><span style=\"font-style: normal;\">Instructional <b>designer</b>, technologist, <b>content creator</b>, </span>technology integrator<span style=\"font-style: normal;\">, </span><b style=\"font-style: normal;\">course developer</b><span style=\"font-style: normal;\">, and a designer.&nbsp;A </span><b><a href=\"http://www.villavance.com\" target=\"_blank\">photo enthusiast</a></b><span style=\"font-style: normal;\"> when other things fail.</span><br>",
+          "text": "<br><span style=\"font-style: normal;\">Instructional <b>DeSIGNeR</b>, <b>TechNOLoGIST</b>, content<b> CReaTOR</b>, </span><span style=\"color: rgb(65, 168, 95); font-size: 36px; line-height: 1.5;\">technology </span><b style=\"line-height: 1.5;\">INTeGRAToR</b><span style=\"font-style: normal;\">, </span><span style=\"font-style: normal;\">course DeVeLOPER</span><span style=\"font-style: normal;\">, and a designer.&nbsp;A </span><b style=\"line-height: 1.5;\"><a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-warning\">photo enthusiast</a></b><span style=\"font-style: normal;\"> when other things fail.</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO SEE MY PORTFOLIO</a>   "
         },
         {
