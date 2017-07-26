@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -426,11 +427,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #efefef;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oswald', sans-serif;
 }
 #menu-0 .link {
@@ -463,7 +464,7 @@ h6,
   background: #000000;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #efefef;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -485,7 +486,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 #header1-1 .mbr-section-title {
   color: #515151;
@@ -847,11 +848,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-14 .navbar-toggler {
-  color: #ffffff;
+  color: #efefef;
 }
 #menu-14 .link,
 #menu-14 .dropdown-item {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oswald', sans-serif;
 }
 #menu-14 .link {
@@ -884,7 +885,7 @@ h6,
   background: #000000;
 }
 #menu-14 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #efefef;
   transition: none;
 }
 #menu-14 .bg-color.transparent.opened .link {
@@ -906,7 +907,7 @@ h6,
 }
 #menu-14 .close-icon::before,
 #menu-14 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 #footer1-15 P {
   font-family: 'Oswald', sans-serif;
@@ -928,6 +929,126 @@ h6,
   color: #fff;
 }
 #social-buttons4-17 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d SMALL {
+  font-family: 'Roboto', sans-serif;
+  color: #747272;
+  font-size: 17px;
+}
+#menu-18 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-18 .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-18 .navbar-toggler {
+  color: #efefef;
+}
+#menu-18 .link,
+#menu-18 .dropdown-item {
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-18 .link {
+  font-size: 1rem;
+}
+#menu-18 .dropdown-item,
+#menu-18 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-18 .link:hover,
+#menu-18 .dropdown-item:hover,
+#menu-18 .link:focus,
+#menu-18 .dropdown-item:focus {
+  color: #7c706b;
+}
+#menu-18 .link[aria-expanded="true"],
+#menu-18 .dropdown-menu {
+  background: #000000;
+}
+#menu-18 .nav-dropdown-sm .link:focus,
+#menu-18 .nav-dropdown-sm .link:hover,
+#menu-18 .nav-dropdown-sm .dropdown-item:focus,
+#menu-18 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-18 .navbar,
+#menu-18 .nav-dropdown-sm,
+#menu-18 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-18 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-18 .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-18 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-18 .bg-color.transparent.opened .link:hover,
+#menu-18 .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#menu-18 .link[aria-expanded="true"],
+#menu-18 .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#menu-18.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-18 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-18 .close-icon::before,
+#menu-18 .close-icon::after {
+  background-color: #efefef;
+}
+#footer1-19 P {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e SMALL {
+  font-family: 'Oswald', sans-serif;
+  color: #747272;
+}
+#header3-1e SPAN {
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#content6-1c P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+}
+#content6-1c B {
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons4-1b .mbr-section-title,
+#social-buttons4-1b .btn-social {
+  color: #fff;
+}
+#social-buttons4-1b .mbr-section-title {
   color: #ffffff;
   text-align: center;
   font-size: 30px;
