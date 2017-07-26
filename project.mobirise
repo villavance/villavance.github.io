@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portfolio.html",
+    "currentPage": "index.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -154,7 +154,7 @@
               "text-align": "left"
             },
             ".mbr-section-lead": {
-              "color": "#747272",
+              "color": "#41a85f",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "48px",
@@ -162,9 +162,9 @@
             },
             ".mbr-section-lead SPAN": {
               "font-size": "36px",
-              "color": "#747272",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "color": "#2969b0",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
           },
           "_anchor": "header1-1",
@@ -804,39 +804,39 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "H1": {
+              "color": "#404040",
+              "font-size": "72px"
+            }
+          },
           "_anchor": "content1-u",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<h1>VILLA R. VANCE</h1>",
-          "_styles": {
-            "H1": {
-              "color": "#404040",
-              "font-size": "72px"
-            }
-          }
+          "text": "<h1>VILLA R. VANCE</h1>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-12",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>I have been in the industry of information technology and computer science for a little over ten years; and instructional designs and technologist for over three years. I am always looking at opportunities in the field of higher education. A designer with strong track record in helping educator achieve their end goal while utilizing pedagogy and using technology to reach not one specific audience but multiple type of learners.</p>",
           "_styles": {
             "P": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>I have been in the industry of information technology and computer science for a little over ten years; and instructional designs and technologist for over three years. I am always looking at opportunities in the field of higher education. A designer with strong track record in helping educator achieve their end goal while utilizing pedagogy and using technology to reach not one specific audience but multiple type of learners.</p>"
         },
         {
           "_tags": [
