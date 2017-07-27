@@ -501,8 +501,11 @@ h6,
 }
 #header1-1 .mbr-section-lead SPAN {
   font-size: 46px;
-  color: #e25041;
+  color: #b8312f;
   font-family: 'Oswald', sans-serif;
+}
+#header1-1 .mbr-section-lead B {
+  color: #28324e;
 }
 #social-buttons4-b .mbr-section-title,
 #social-buttons4-b .btn-social {
