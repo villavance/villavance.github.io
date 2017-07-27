@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "coursework.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -359,7 +359,7 @@
               "active": true
             }
           },
-          "title3": "Web Fonts",
+          "title3": "<a href=\"https://villavance.github.io/5110.html\" target=\"_blank\">Web Fonts</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
