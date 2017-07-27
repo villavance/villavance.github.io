@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
@@ -513,12 +512,11 @@ h6,
   color: #ffffff;
   text-align: center;
   font-size: 30px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-2 P {
   font-family: 'Oswald', sans-serif;
 }
-
 
 
 
@@ -559,11 +557,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-5 .navbar-toggler {
-  color: #ffffff;
+  color: #efefef;
 }
 #menu-5 .link,
 #menu-5 .dropdown-item {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oswald', sans-serif;
 }
 #menu-5 .link {
@@ -596,7 +594,7 @@ h6,
   background: #000000;
 }
 #menu-5 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #efefef;
   transition: none;
 }
 #menu-5 .bg-color.transparent.opened .link {
@@ -618,18 +616,16 @@ h6,
 }
 #menu-5 .close-icon::before,
 #menu-5 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 #footer1-6 P {
   font-family: 'Oswald', sans-serif;
 }
-#social-buttons4-f .mbr-section-title,
-#social-buttons4-f .btn-social {
+#social-buttons4-1f .mbr-section-title,
+#social-buttons4-1f .btn-social {
   color: #fff;
 }
-#social-buttons4-f .mbr-section-title {
-  text-align: center;
-  font-family: 'Oxygen', sans-serif;
+#social-buttons4-1f .mbr-section-title {
   font-size: 30px;
 }
 
@@ -646,11 +642,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-i .navbar-toggler {
-  color: #ffffff;
+  color: #efefef;
 }
 #menu-i .link,
 #menu-i .dropdown-item {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oswald', sans-serif;
 }
 #menu-i .link {
@@ -683,7 +679,7 @@ h6,
   background: #000000;
 }
 #menu-i .bg-color.transparent .link {
-  color: #ffffff;
+  color: #efefef;
   transition: none;
 }
 #menu-i .bg-color.transparent.opened .link {
@@ -705,7 +701,7 @@ h6,
 }
 #menu-i .close-icon::before,
 #menu-i .close-icon::after {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 #footer1-l P {
   font-family: 'Oswald', sans-serif;
@@ -730,7 +726,7 @@ h6,
   color: #ffffff;
   text-align: center;
   font-size: 30px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 
@@ -740,7 +736,7 @@ h6,
 
 #content1-u H1 {
   color: #404040;
-  font-size: 72px;
+  font-size: 60px;
 }
 #content1-12 P {
   font-family: 'Roboto Condensed', sans-serif;
@@ -760,11 +756,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #menu-o .navbar-toggler {
-  color: #ffffff;
+  color: #efefef;
 }
 #menu-o .link,
 #menu-o .dropdown-item {
-  color: #ffffff;
+  color: #efefef;
   font-family: 'Oswald', sans-serif;
 }
 #menu-o .link {
@@ -797,7 +793,7 @@ h6,
   background: #000000;
 }
 #menu-o .bg-color.transparent .link {
-  color: #ffffff;
+  color: #efefef;
   transition: none;
 }
 #menu-o .bg-color.transparent.opened .link {
@@ -819,7 +815,7 @@ h6,
 }
 #menu-o .close-icon::before,
 #menu-o .close-icon::after {
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 #social-buttons4-q .mbr-section-title,
 #social-buttons4-q .btn-social {
@@ -829,7 +825,7 @@ h6,
   color: #ffffff;
   text-align: center;
   font-size: 30px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-r P {
   font-family: 'Oswald', sans-serif;
@@ -932,7 +928,7 @@ h6,
   color: #ffffff;
   text-align: center;
   font-size: 30px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 
 
@@ -951,6 +947,13 @@ h6,
   font-family: 'Roboto', sans-serif;
   color: #747272;
   font-size: 17px;
+}
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1i SPAN {
+  color: #28324e;
 }
 #menu-18 .hide-buttons .nav-btn {
   display: none !important;
@@ -1034,7 +1037,7 @@ h6,
   color: #747272;
 }
 #header3-1e SPAN {
-  font-size: 15px;
+  font-size: 18px;
   font-family: 'Roboto Condensed', sans-serif;
 }
 #content6-1c P {
@@ -1052,5 +1055,5 @@ h6,
   color: #ffffff;
   text-align: center;
   font-size: 30px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
