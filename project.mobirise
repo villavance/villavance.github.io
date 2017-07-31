@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "socialmedia_educ.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -436,7 +436,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/social-media-and-education-600x672.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -452,7 +452,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/techinclassroom-600x588.png",
+              "src": "@PROJECT_PATH@/assets/images/tecclassroom-1400x1389.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
