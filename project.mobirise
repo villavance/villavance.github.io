@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portfolio.html",
+    "currentPage": "instructionaldesign.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 83,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -2274,7 +2274,7 @@
           "_name": "header3",
           "_anchor": "header3-29",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "6",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": true
@@ -2416,8 +2416,8 @@
           "_name": "content6",
           "_anchor": "content6-27",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "text1": "<h4>Project A</h4><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDSVhzVEw1d0lHZ0k/view?usp=sharing\" target=\"_blank\">Instructions for taking test/quiz online</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDRmxCMS15MGtrTzg/view?usp=sharing\" target=\"_blank\">eCampus Instructions</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDNUFlMzFRUXQyQkU/view?usp=sharing\" target=\"_blank\">Faculty Job Aid</a></p><p><br></p>",
