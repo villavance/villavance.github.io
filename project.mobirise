@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "multimedia.html",
+    "currentPage": "instructionaldesign.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -2417,7 +2417,7 @@
           "_anchor": "content6-27",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<h4>Project A</h4><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDSVhzVEw1d0lHZ0k/view?usp=sharing\" target=\"_blank\">Instructions for taking test/quiz online</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDRmxCMS15MGtrTzg/view?usp=sharing\" target=\"_blank\">eCampus Instructions</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDNUFlMzFRUXQyQkU/view?usp=sharing\" target=\"_blank\">Faculty Job Aid</a></p><p><br></p>",
