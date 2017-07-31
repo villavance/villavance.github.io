@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "socialmedia_educhtml",
+    "currentPage": "socialmedia_educ",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1521,7 +1521,7 @@
         }
       ]
     },
-    "socialmedia_educhtml": {
+    "socialmedia_educ": {
       "settings": {
         "title": "Social Media in Education",
         "meta_descr": "",
