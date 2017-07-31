@@ -1339,3 +1339,97 @@ h6,
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+#header3-29 .mbr-section-title,
+#header3-29 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-29 H3 {
+  color: #28324e;
+}
+#menu-21 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-21 .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-21 .navbar-toggler {
+  color: #efefef;
+}
+#menu-21 .link,
+#menu-21 .dropdown-item {
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-21 .link {
+  font-size: 1rem;
+}
+#menu-21 .dropdown-item,
+#menu-21 .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-21 .link:hover,
+#menu-21 .dropdown-item:hover,
+#menu-21 .link:focus,
+#menu-21 .dropdown-item:focus {
+  color: #7c706b;
+}
+#menu-21 .link[aria-expanded="true"],
+#menu-21 .dropdown-menu {
+  background: #000000;
+}
+#menu-21 .nav-dropdown-sm .link:focus,
+#menu-21 .nav-dropdown-sm .link:hover,
+#menu-21 .nav-dropdown-sm .dropdown-item:focus,
+#menu-21 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-21 .navbar,
+#menu-21 .nav-dropdown-sm,
+#menu-21 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-21 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-21 .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-21 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-21 .bg-color.transparent.opened .link:hover,
+#menu-21 .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#menu-21 .link[aria-expanded="true"],
+#menu-21 .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#menu-21.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-21 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-21 .close-icon::before,
+#menu-21 .close-icon::after {
+  background-color: #efefef;
+}
+#footer1-22 P {
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons4-24 .mbr-section-title,
+#social-buttons4-24 .btn-social {
+  color: #fff;
+}
+#social-buttons4-24 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
