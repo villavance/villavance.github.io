@@ -1240,3 +1240,102 @@ h6,
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+
+#menu-1x .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1x .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1x .navbar-toggler {
+  color: #efefef;
+}
+#menu-1x .link,
+#menu-1x .dropdown-item {
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1x .link {
+  font-size: 1rem;
+}
+#menu-1x .dropdown-item,
+#menu-1x .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-1x .link:hover,
+#menu-1x .dropdown-item:hover,
+#menu-1x .link:focus,
+#menu-1x .dropdown-item:focus {
+  color: #7c706b;
+}
+#menu-1x .link[aria-expanded="true"],
+#menu-1x .dropdown-menu {
+  background: #000000;
+}
+#menu-1x .nav-dropdown-sm .link:focus,
+#menu-1x .nav-dropdown-sm .link:hover,
+#menu-1x .nav-dropdown-sm .dropdown-item:focus,
+#menu-1x .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1x .navbar,
+#menu-1x .nav-dropdown-sm,
+#menu-1x .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1x .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1x .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-1x .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1x .bg-color.transparent.opened .link:hover,
+#menu-1x .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#menu-1x .link[aria-expanded="true"],
+#menu-1x .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#menu-1x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1x .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1x .close-icon::before,
+#menu-1x .close-icon::after {
+  background-color: #efefef;
+}
+#footer1-1y P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-1z H3 {
+  color: #28324e;
+}
+#msg-box5-1z P {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 14px;
+  text-align: left;
+}
+#msg-box5-1z B {
+  font-size: 14px;
+}
+#social-buttons4-20 .mbr-section-title,
+#social-buttons4-20 .btn-social {
+  color: #fff;
+}
+#social-buttons4-20 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
