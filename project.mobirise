@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "instructionaldesign.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -479,7 +479,7 @@
             }
           },
           "title4": "<a href=\"multimedia.html\">Multimedia in Technology Application</a>",
-          "subtitle4": "LTEC/CECS 5110 PROJECT",
+          "subtitle4": "<span style=\"font-style: normal;\">LTEC/CECS 5110 PROJECT</span>",
           "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -495,23 +495,23 @@
             }
           },
           "title5": "<a href=\"https://vpn1.unt.edu/+CSCO+1h75676763663A2F2F70796E666672662E79672E6861672E727168++/Fall_8W2_2014/CECS_5420_080/vv0130/-CSCO-3h--assign3/index.html\" target=\"_blank\">Study Resources</a>",
-          "subtitle5": "LTEC/CECS 5420 PROJECT",
+          "subtitle5": "<span style=\"font-style: normal;\">LTEC/CECS 5420 PROJECT</span>",
           "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/testtakingtips-600x774.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "instructionaldesign.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
             }
           },
-          "title6": "Instructional Design Materials",
-          "subtitle6": "LTEC 5210 PROJECTS",
+          "title6": "<a href=\"instructionaldesign.html\">Instructional Design Materials</a>",
+          "subtitle6": "<span style=\"font-style: normal;\"><b>LTEC 5210 PROJECTS</b></span>",
           "caption6": "",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
