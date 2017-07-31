@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "socialmedia_educ",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -440,14 +440,14 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://canvas.instructure.com/courses/1080132",
+              "link": "socialmedia_educ",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
-          "title2": "<a href=\"https://canvas.instructure.com/courses/1080132\" target=\"_blank\">Social Media in Education</a>",
-          "subtitle2": "<span style=\"font-style: normal;\">LTEC 5200 PROJECT</span>",
+          "title2": "<a href=\"socialmedia_educ\">Social Media in Education</a>",
+          "subtitle2": "<span style=\"font-style: normal;\">\u001bLTEC 5200 PROJECT</span>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
