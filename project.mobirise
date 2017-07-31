@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portfolio.html",
+    "currentPage": "technology_classroom.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -456,10 +456,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "https://canvas.instructure.com/courses/1123821",
+              "link": "technology_classroom.html",
               "alt": "",
               "title": "",
-              "linkInNewWindow": true
+              "linkInNewWindow": false
             }
           },
           "title3": "Technologies in the Classroom",
