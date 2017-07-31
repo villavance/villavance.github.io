@@ -395,6 +395,25 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#fac51c"
+            },
+            "P": {
+              "color": "#efefef",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "13px"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "features3-1m",
           "_params": {
             "paddingTop": "1",
@@ -513,26 +532,7 @@
           "title6": "<a href=\"instructionaldesign.html\">Instructional Design Materials</a>",
           "subtitle6": "<span style=\"font-style: normal;\">LTEC 5210 PROJECTS</span>",
           "caption6": "",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#fac51c"
-            },
-            "P": {
-              "color": "#efefef",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "13px"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1679,6 +1679,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "SPAN": {
+              "color": "#28324e"
+            },
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          },
           "_anchor": "msg-box5-1w",
           "_params": {
             "imageSize": 50,
@@ -1725,16 +1734,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">SOCIAL MEDIA IN EDUCATION</span>",
           "text": "<b>HOW TO INCORPORATE SOCIAL MEDIA IN EDUCATION?</b><br><br>The presence of social media in higher education is increasing as educator find ways to incorporate technology to engage their student and enhance learning not just through face-to-face but more so in online learning. A lot of scholar and researchers may argue that there is not enough evidence that the use of social media will be successful because the data gathered was limited to surveys and questionnaires. There are no definitive findings as to how much is the impact and up to what extent of social media can actually help in the learning process.<br>On the other hand, the use of media sharing tools and sites such as Google tools and YouTube has been skyrocketing in use. A lot of educator uses YouTube to supplement their teaching with videos. Faculties are also using Google Docs for face-to-face and online collaboration.<br>These tools are widely used whether in the right way or not. And since they are already being used in education why not create resources to better equip our educators the best way to use these tools in the classroom or in their online courses. With the right design of tutorials and modules, specific learning objectives and outcomes, the right questions to assess the validity and effectiveness, the integration and ease of use of these technologies will be a breeze.<br>To showcase the usage of social media in education a short course in Canvas was created.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDWVR3S1pGYmRYRWM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJECT OUTLINE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a>",
-          "_styles": {
-            "SPAN": {
-              "color": "#28324e"
-            },
-            "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDWVR3S1pGYmRYRWM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJECT OUTLINE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1914,6 +1914,17 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#28324e"
+            },
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box5-1v",
           "_params": {
             "imageSize": 50,
@@ -1960,18 +1971,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">TECHNOLOGIES IN THE CLASSROOM</span>",
           "text": "<b>ABOUT THIS COURSE</b><br>This course focuses on the different technology educators can use in the classroom. Every week or two one type of technology/media will be explored, learn, and practice. The student will use the technology to create a meaningful project to learn the concept, have a practice time, and be able to take ownership of the process. In turn, this will help the student learn how to use the technology to incorporate in their own classroom. This course will run for 16 weeks.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1123821\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDeFFwcnRfWUpGZG8/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESIGN DOCUMENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDNGxDbWhqcXd2djQ/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOB AID DOCUMENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1123821/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a> ",
-          "_styles": {
-            "H3": {
-              "color": "#28324e"
-            },
-            "P": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px",
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1123821\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDeFFwcnRfWUpGZG8/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESIGN DOCUMENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDNGxDbWhqcXd2djQ/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">JOB AID DOCUMENT</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1123821/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -2421,7 +2421,7 @@
             "bgColor": "#fff"
           },
           "text1": "<h4>Project A</h4><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDSVhzVEw1d0lHZ0k/view?usp=sharing\" target=\"_blank\">Instructions for taking test/quiz online</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDRmxCMS15MGtrTzg/view?usp=sharing\" target=\"_blank\">eCampus Instructions</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDNUFlMzFRUXQyQkU/view?usp=sharing\" target=\"_blank\">Faculty Job Aid</a></p><p><br></p>",
-          "text2": "<h4>Project B</h4><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDYmkyTmY5djhNeDQ/view\" target=\"_blank\">New Program Packet</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDc3N1TXBOQmN6dmc/view?usp=sharing\" target=\"_blank\">Staff Job Aid - How to implement the new program packet</a></p>"
+          "text2": "<h4>Project B</h4><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDYmkyTmY5djhNeDQ/view\" target=\"_blank\">New Program Packet</a></p><p><a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDc3N1TXBOQmN6dmc/view?usp=sharing\" target=\"_blank\">Staff Job Aid - How to implement the new program packet</a></p><p><br></p><h4>Video Instructions </h4><p><a href=\"https://youtu.be/xZ9fiTxmk6E\" target=\"_blank\">How to Bake a Banana Bread</a></p>"
         },
         {
           "_inherit": "social-buttons2",
