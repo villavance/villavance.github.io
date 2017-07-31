@@ -1495,7 +1495,7 @@
             "bgColor": "#fff"
           },
           "text1": "<b>CORE/FOUNDATION COURSES (24 HRS)<br></b><p><br></p><p><a href=\"http://catalog.unt.edu/preview_course_nopop.php?catoid=18&amp;coid=66834\" target=\"_blank\"><b style=\"font-style: normal;\">LTEC 5030</b></a><a href=\"http://catalog.unt.edu/preview_course_nopop.php?catoid=18&amp;coid=66834\" target=\"_blank\"> </a>- Foundations of Learning Technologies</p><p>LTEC 5300 - Learning and Cognition</p><p>LTEC 5220/ CECS 5110 - Multimedia in Technology Applications</p><p>LTEC 5210 - Instructional Systems Design I</p><p>LTEC 5610 -&nbsp;<span style=\"line-height: 1.5;\">Analysis of Research in Learning Technologies</span></p><p>LTEC 5200 - New Technologies of Instruction</p><p>LTEC 5510 - Technology Based Learning Environments</p><p>LTEC 5580 - Readings Seminar in Learning Technologies</p><p><br></p>",
-          "text2": "<p><b>TRACK SPECIFIC COURSES (12 HRS)</b></p><p><br></p><p>This program track requires the completion of:</p><p><br></p><p>LTEC 5040 - Online Design and Pedagogy</p><p>LTEC 5400 - Learning Technologies Telecommunications</p><p>LTEC 5420 - Web Authoring</p><p>LTEC 5570 - Ethical, Legal and Professional Issues in Computing</p>"
+          "text2": "<p><b>TRACK SPECIFIC COURSES (12 HRS)</b></p><p><br></p><p><span style=\"line-height: 1.5;\">LTEC 5040 - Online Design and Pedagogy</span><br></p><p>LTEC 5400 - Learning Technologies Telecommunications</p><p>LTEC 5420 - Web Authoring</p><p>LTEC 5570 - Ethical, Legal and Professional Issues in Computing</p>"
         },
         {
           "_inherit": "social-buttons2",
