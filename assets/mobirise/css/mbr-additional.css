@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
@@ -525,32 +526,6 @@ h6,
 
 
 
-
-
-#features1-h .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-text {
-  font-family: 'Raleway', sans-serif;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-subtitle {
-  font-family: 'Oswald', sans-serif;
-  text-align: left;
-  color: #efefef;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-title {
-  text-align: center;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-subtitle SPAN {
-  font-family: 'Roboto Condensed', sans-serif;
-  text-align: center;
-}
-#features1-h .mbr-cards-col:nth-child(odd) .card-subtitle P {
-  text-align: center;
-}
-#features1-h .mbr-cards-col:nth-child(even) .card-subtitle {
-  font-family: 'Roboto Condensed', sans-serif;
-}
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -623,6 +598,21 @@ h6,
 }
 #footer1-6 P {
   font-family: 'Oswald', sans-serif;
+}
+#features3-1m H5 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ffffff;
+}
+#features3-1m H4 {
+  color: #fac51c;
+}
+#features3-1m P {
+  color: #efefef;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 13px;
+}
+#features3-1m SPAN {
+  color: #ffffff;
 }
 #social-buttons4-1f .mbr-section-title,
 #social-buttons4-1f .btn-social {
@@ -1055,6 +1045,106 @@ h6,
   color: #fff;
 }
 #social-buttons4-1b .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+}
+
+
+
+
+
+#menu-1n .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-1n .navbar-caption {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1n .navbar-toggler {
+  color: #efefef;
+}
+#menu-1n .link,
+#menu-1n .dropdown-item {
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
+}
+#menu-1n .link {
+  font-size: 1rem;
+}
+#menu-1n .dropdown-item,
+#menu-1n .nav-dropdown-sm .link {
+  font-size: 1.083rem;
+}
+#menu-1n .link:hover,
+#menu-1n .dropdown-item:hover,
+#menu-1n .link:focus,
+#menu-1n .dropdown-item:focus {
+  color: #7c706b;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-menu {
+  background: #000000;
+}
+#menu-1n .nav-dropdown-sm .link:focus,
+#menu-1n .nav-dropdown-sm .link:hover,
+#menu-1n .nav-dropdown-sm .dropdown-item:focus,
+#menu-1n .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-1n .navbar,
+#menu-1n .nav-dropdown-sm,
+#menu-1n .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-1n .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-1n .bg-color.transparent .link {
+  color: #efefef;
+  transition: none;
+}
+#menu-1n .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-1n .bg-color.transparent.opened .link:hover,
+#menu-1n .bg-color.transparent.opened .link:focus {
+  color: #7c706b;
+}
+#menu-1n .link[aria-expanded="true"],
+#menu-1n .dropdown-item[aria-expanded="true"] {
+  color: #7c706b!important;
+}
+#menu-1n.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1n .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1n .close-icon::before,
+#menu-1n .close-icon::after {
+  background-color: #efefef;
+}
+#footer1-1o P {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-1p .mbr-section-title,
+#msg-box3-1p p {
+  color: #000;
+}
+#msg-box3-1p .mbr-section-title P {
+  color: #28324e;
+}
+#msg-box3-1p .lead P {
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+}
+#social-buttons4-1q .mbr-section-title,
+#social-buttons4-1q .btn-social {
+  color: #fff;
+}
+#social-buttons4-1q .mbr-section-title {
   color: #ffffff;
   text-align: center;
   font-size: 30px;
