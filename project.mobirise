@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "technology_classroom.html",
+    "currentPage": "socialmedia_educ.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -1663,33 +1663,19 @@
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title P": {
-              "color": "#28324e"
-            },
-            ".lead P": {
-              "text-align": "left",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-1p",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-1w",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1697,14 +1683,46 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButton": true
+            "showButtons": true
           },
-          "title": "<p><span style=\"font-weight: normal;\">SOCIAL MEDIA IN EDUCATION</span></p>",
-          "text": "<p><b>HOW TO INCORPORATE SOCIAL MEDIA IN EDUCATION?</b></p><p>The presence of social media in higher education is increasing as educator find ways to incorporate technology to engage their student and enhance learning not just through face-to-face but more so in online learning. A lot of scholar and researchers may argue that there is not enough evidence that the use of social media will be successful because the data gathered was limited to surveys and questionnaires. There are no definitive findings as to how much is the impact and up to what extent of social media can actually help in the learning process.</p><p><span style=\"line-height: 1.5;\">On the other hand, the use of media sharing tools and sites such as Google tools and YouTube has been skyrocketing in use. A lot of educator uses YouTube to supplement their teaching with videos. Faculties are also using Google Docs for face-to-face and online collaboration.</span><br></p><p><span style=\"line-height: 1.5;\">These tools are widely used whether in the right way or not. And since they are already being used in education why not create resources to better equip our educators the best way to use these tools in the classroom or in their online courses. With the right design of tutorials and modules, specific learning objectives and outcomes, the right questions to assess the validity and effectiveness, the integration and ease of use of these technologies will be a breeze.</span><br></p><p><span style=\"line-height: 1.5;\">To showcase the usage of social media in education a short course in Canvas was created.&nbsp;</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDWVR3S1pGYmRYRWM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;PROJECT OUTLINE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a>     "
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x2100.jpg",
+              "link": "https://canvas.instructure.com/courses/1080132",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">SOCIAL MEDIA IN EDUCATION</span>",
+          "text": "<b>HOW TO INCORPORATE SOCIAL MEDIA IN EDUCATION?</b><br><br>The presence of social media in higher education is increasing as educator find ways to incorporate technology to engage their student and enhance learning not just through face-to-face but more so in online learning. A lot of scholar and researchers may argue that there is not enough evidence that the use of social media will be successful because the data gathered was limited to surveys and questionnaires. There are no definitive findings as to how much is the impact and up to what extent of social media can actually help in the learning process.<br>On the other hand, the use of media sharing tools and sites such as Google tools and YouTube has been skyrocketing in use. A lot of educator uses YouTube to supplement their teaching with videos. Faculties are also using Google Docs for face-to-face and online collaboration.<br>These tools are widely used whether in the right way or not. And since they are already being used in education why not create resources to better equip our educators the best way to use these tools in the classroom or in their online courses. With the right design of tutorials and modules, specific learning objectives and outcomes, the right questions to assess the validity and effectiveness, the integration and ease of use of these technologies will be a breeze.<br>To showcase the usage of social media in education a short course in Canvas was created.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACCESS COURSE HERE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/0B9kQ359GYPTDWVR3S1pGYmRYRWM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PROJECT OUTLINE</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://canvas.instructure.com/courses/1080132/pages/references\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REFERENCES</a>",
+          "_styles": {
+            "SPAN": {
+              "color": "#28324e"
+            },
+            "P": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",

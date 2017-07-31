@@ -1128,17 +1128,11 @@ h6,
 #footer1-1o P {
   font-family: 'Oswald', sans-serif;
 }
-#msg-box3-1p .mbr-section-title,
-#msg-box3-1p p {
-  color: #000;
-}
-#msg-box3-1p .mbr-section-title P {
+#msg-box5-1w SPAN {
   color: #28324e;
 }
-#msg-box3-1p .lead P {
-  text-align: left;
+#msg-box5-1w P {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 20px;
 }
 #social-buttons4-1q .mbr-section-title,
 #social-buttons4-1q .btn-social {
