@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page10.html",
+    "currentPage": "contact.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -2468,7 +2468,7 @@
         }
       ]
     },
-    "page10.html": {
+    "contact.html": {
       "settings": {
         "title": "Villa Vance - Contact",
         "meta_descr": "Instructional Designer, Technologist, Content creator, creative suite, indesign, ",
