@@ -52,8 +52,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -278,8 +278,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -591,8 +591,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -895,8 +895,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -1068,8 +1068,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -1334,8 +1334,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -1562,8 +1562,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -1797,8 +1797,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -2034,8 +2034,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
@@ -2297,8 +2297,8 @@
             ".navbar-caption": {
               "color": "#ffffff",
               "font-size": "15px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700"
             },
             ".navbar-toggler": {
               "color": "#efefef"
