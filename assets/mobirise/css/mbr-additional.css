@@ -1446,11 +1446,15 @@ h6,
 
 
 
+
 #form1-2j .form-control-label {
   color: #232323;
 }
 #form1-2j SPAN {
   font-family: 'Slabo 27px', serif;
+}
+#form1-2j .btn {
+  font-family: 'Oswald', sans-serif;
 }
 #menu-2g .hide-buttons .nav-btn {
   display: none !important;
