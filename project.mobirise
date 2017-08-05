@@ -2507,7 +2507,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
           "subtitle": "<span style=\"font-style: normal;\">Have questions? Fill out the form below and send.</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
           "form": {
@@ -2551,6 +2551,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }

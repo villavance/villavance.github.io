@@ -1447,6 +1447,7 @@ h6,
 
 
 
+
 #form1-2j .form-control-label {
   color: #232323;
 }
@@ -1454,6 +1455,9 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #form1-2j .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#form1-2j .mbr-section-title SPAN {
   font-family: 'Oswald', sans-serif;
 }
 #menu-2g .hide-buttons .nav-btn {
