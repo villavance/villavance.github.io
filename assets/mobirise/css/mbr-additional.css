@@ -1,6 +1,6 @@
 @import url(../../../https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
@@ -435,7 +435,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-0 .link {
   font-size: 1rem;
@@ -546,7 +546,7 @@ h6,
 #menu-5 .link,
 #menu-5 .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-5 .link {
   font-size: 1rem;
@@ -608,6 +608,7 @@ h6,
 #features3-1m H5 {
   font-family: 'Roboto Condensed', sans-serif;
   color: #ffffff;
+  text-align: center;
 }
 #features3-1m H4 {
   color: #fac51c;
@@ -646,7 +647,7 @@ h6,
 #menu-i .link,
 #menu-i .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-i .link {
   font-size: 1rem;
@@ -760,7 +761,7 @@ h6,
 #menu-o .link,
 #menu-o .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-o .link {
   font-size: 1rem;
@@ -848,7 +849,7 @@ h6,
 #menu-14 .link,
 #menu-14 .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-14 .link {
   font-size: 1rem;
@@ -968,7 +969,7 @@ h6,
 #menu-18 .link,
 #menu-18 .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-18 .link {
   font-size: 1rem;
@@ -1075,7 +1076,7 @@ h6,
 #menu-1n .link,
 #menu-1n .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-1n .link {
   font-size: 1rem;
@@ -1169,7 +1170,7 @@ h6,
 #menu-1r .link,
 #menu-1r .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-1r .link {
   font-size: 1rem;
@@ -1265,7 +1266,7 @@ h6,
 #menu-1x .link,
 #menu-1x .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-1x .link {
   font-size: 1rem;
@@ -1370,7 +1371,7 @@ h6,
 #menu-21 .link,
 #menu-21 .dropdown-item {
   color: #efefef;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #menu-21 .link {
   font-size: 1rem;

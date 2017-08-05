@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -61,8 +61,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -118,9 +118,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -287,8 +287,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -344,9 +344,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -407,7 +407,8 @@
             "H5": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             },
             "H4": {
               "color": "#fac51c"
@@ -474,7 +475,7 @@
             }
           },
           "title2": "<a href=\"socialmedia_educ\">Social Media in Education</a>",
-          "subtitle2": "<span style=\"font-style: normal;\">\u001bLTEC 5200 PROJECT</span>",
+          "subtitle2": "<span style=\"font-style: normal;\">LTEC 5200 PROJECT</span>",
           "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -600,8 +601,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -657,9 +658,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -904,8 +905,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -961,9 +962,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -1077,8 +1078,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1134,9 +1135,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -1343,8 +1344,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1400,9 +1401,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -1571,8 +1572,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1628,9 +1629,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -1806,8 +1807,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -1863,9 +1864,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -2043,8 +2044,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -2100,9 +2101,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
@@ -2306,8 +2307,8 @@
             },
             ".link, .dropdown-item": {
               "color": "#efefef",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-family": "'Oswald', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
               "font-size": "1rem"
@@ -2363,9 +2364,9 @@
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
-              "name": "Oswald",
-              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "css": "'Oswald', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
             "fontHoverColor": "@primaryColor"
