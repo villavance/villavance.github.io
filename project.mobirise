@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "writing.html",
+    "currentPage": "index.html",
     "name": "Villa Vance Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -155,8 +155,8 @@
             ".mbr-section-title": {
               "color": "#515151",
               "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "72px"
             },
             ".mbr-section-lead": {
@@ -169,11 +169,15 @@
             ".mbr-section-lead SPAN": {
               "font-size": "46px",
               "color": "#28324e",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             },
             ".mbr-section-lead B": {
               "color": "#28324e"
+            },
+            ".btn": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           },
           "_anchor": "header1-1",
@@ -198,7 +202,7 @@
           },
           "title": "VILLA R. VANCE&nbsp;",
           "text": "<br><span style=\"font-style: normal;\"><b>Instructional Designer</b>, Technologist, <b>CONTENT CREATOR</b>, Technology <b>INTEGRATOR</b>, Course <b>DEVELOPER</b>, SUBJECT Matter <b>Expert</b>, and a PHOTO ENTHUSIAST when other things fail.&nbsp;</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">CLICK HERE TO SEE MY PORTFOLIO</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>CLICK HERE TO SEE MY PORTFOLIO</a>   "
         },
         {
           "_inherit": "social-buttons2",
