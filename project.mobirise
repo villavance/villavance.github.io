@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#1a1818"
+        "#1a1818",
+        "#515151"
       ]
     },
     "versionFirst": "3.12.1",
@@ -155,8 +156,8 @@
             ".mbr-section-title": {
               "color": "#515151",
               "text-align": "left",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "72px"
             },
             ".mbr-section-lead": {
