@@ -27,7 +27,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 92,
-    "versionPublish": "4.0.17",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
     "path": "file:///C:/Users/Byron/Desktop/SCHOOL",
@@ -109,12 +109,6 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -123,7 +117,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -147,7 +147,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -183,23 +183,23 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.9",
             "overlayColor": "#efefef",
-            "overlayOpacity": "0.9"
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">VILLA R. VANCE&nbsp;</span>",
           "text": "<br><span style=\"font-style: normal;\"><b>Instructional Designer</b>, Technologist, <b>CONTENT CREATOR</b>, Technology <b>INTEGRATOR</b>, Course <b>DEVELOPER</b>, SUBJECT Matter <b>Expert</b>, and a PHOTO ENTHUSIAST when other things fail.&nbsp;</span><br>",
@@ -228,13 +228,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -252,13 +252,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         }
@@ -335,12 +335,6 @@
           "_name": "menu",
           "_anchor": "menu-5",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -349,7 +343,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -373,7 +373,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -388,13 +388,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -425,26 +425,26 @@
           },
           "_anchor": "features3-1m",
           "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2c2c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2c2c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showButtons": false
           },
           "media1": {
             "image": {
@@ -562,13 +562,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/vhielvance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -649,12 +649,6 @@
           "_name": "menu",
           "_anchor": "menu-i",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -663,7 +657,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -687,7 +687,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -702,13 +702,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -734,23 +734,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-10",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
             "paddingTop": "4",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
           "title": "<p><span style=\"font-weight: normal;\">NEW PROGRAM DEVELOPMENT PACKET &nbsp;CURRICULUM</span></p>",
           "text": "<p>A packet for any new program (curriculum) being submitted to the Academic Services (Curriculum Office) of Collin College whenever a discipline lead, associate dean, dean, program director or subject matter expert (SME) is tasked to developed a new program for the college. The main objective of the packet is to make it easier to put together the documentations needed for the new program and will make documentations easy for submission to the Curriculum Advisory Board (CAB), Collin College leadership team, Texas Higher Education Coordinating Board (THECB), and Southern Association of &nbsp;Colleges and Schools - Commision on Colleges (SACSCOC).</p><p>The packet contains checklists, steps, forms, and explanation of documents.&nbsp;</p>",
@@ -779,13 +779,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -953,12 +953,6 @@
           "_name": "menu",
           "_anchor": "menu-o",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -967,7 +961,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -991,7 +991,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1016,13 +1016,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1040,13 +1040,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         }
@@ -1126,12 +1126,6 @@
           "_name": "menu",
           "_anchor": "menu-14",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -1140,7 +1134,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1164,7 +1164,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1179,13 +1179,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -1211,23 +1211,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-16",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "3",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
           },
           "title": "<p><span style=\"font-weight: normal;\">SCHOLARLY WRITING</span></p>",
           "text": "<p><b>LTEC 5030</b> - <a href=\"https://drive.google.com/file/d/0B9kQ359GYPTDa1o1YllVYnBmWnc/view?usp=sharing\" target=\"_blank\" class=\"text-info\">Social Aspects of Online Learning</a></p><p><b>LTEC 5400</b> - <a href=\"https://drive.google.com/open?id=0B9kQ359GYPTDTldXV1M0ZWJsOVk\" target=\"_blank\" class=\"text-info\">Wireless Networking (Wi-Fi) in Today's Society</a></p><p><br></p>",
@@ -1256,13 +1256,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1297,10 +1297,10 @@
           "_name": "header3",
           "_anchor": "header3-1d",
           "_params": {
-            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">Coursework</span>",
           "meta": "<span style=\"font-style: normal;\">There are 36 hours of coursework completed for the program. 24 core/foundations, 12 hours of specific track and electives.</span>"
@@ -1320,10 +1320,10 @@
           "_name": "header3",
           "_anchor": "header3-1i",
           "_params": {
-            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">COURSE WORK</span>",
           "meta": ""
@@ -1392,12 +1392,6 @@
           "_name": "menu",
           "_anchor": "menu-18",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -1406,7 +1400,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1430,7 +1430,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1445,13 +1445,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -1477,10 +1477,10 @@
           "_name": "header3",
           "_anchor": "header3-1e",
           "_params": {
-            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "",
           "meta": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">There are 36 hours of course work completed for the program. 24 core/foundations, 12 hours of specific track (Instructional Systems) and electives. </span>"
@@ -1533,13 +1533,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1620,12 +1620,6 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -1634,7 +1628,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1658,7 +1658,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1673,13 +1673,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -1699,25 +1699,25 @@
           },
           "_anchor": "msg-box5-1w",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -1768,13 +1768,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -1855,12 +1855,6 @@
           "_name": "menu",
           "_anchor": "menu-1r",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -1869,7 +1863,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -1893,7 +1893,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1908,13 +1908,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -1936,25 +1936,25 @@
           },
           "_anchor": "msg-box5-1v",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2005,13 +2005,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -2092,12 +2092,6 @@
           "_name": "menu",
           "_anchor": "menu-1x",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -2106,7 +2100,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2130,7 +2130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2145,13 +2145,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -2176,25 +2176,25 @@
           },
           "_anchor": "msg-box5-1z",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "1",
+            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": false,
+            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -2245,13 +2245,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -2283,10 +2283,10 @@
           "_name": "header3",
           "_anchor": "header3-29",
           "_params": {
-            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": true
           },
           "title": "<span style=\"font-weight: normal;\">INSTRUCTIONAL DESIGN MATERIALS</span>",
           "meta": ""
@@ -2355,12 +2355,6 @@
           "_name": "menu",
           "_anchor": "menu-21",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -2369,7 +2363,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2393,7 +2393,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2408,13 +2408,13 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         },
@@ -2455,13 +2455,13 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
@@ -2483,65 +2483,19 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_anchor": "buttons1-2b",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">cell: 469.396.5854</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">email: labyouqt@gmail.com</a> ",
-          "_anchor": "buttons1-2b"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">cell: 469.396.5854</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">email: labyouqt@gmail.com</a> "
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
-          "subtitle": "<span style=\"font-style: normal;\">Have questions? Fill out the form below and send.</span>",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
-          "form": {
-            "action": "labyouqt@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
           "_tags": [
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-2j",
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
@@ -2558,7 +2512,53 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
-          }
+          },
+          "_anchor": "form1-2j",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Have questions? Fill out the form below and send.</span>",
+          "form": {
+            "action": "labyouqt@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>"
         },
         {
           "_styles": {
@@ -2622,13 +2622,8 @@
             }
           },
           "_name": "menu",
+          "_anchor": "menu-2g",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
             "bgColor": "#1a1818",
             "fontSize": "1",
             "fontName": {
@@ -2637,7 +2632,13 @@
               "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#efefef",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2661,8 +2662,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VILLA R. VANCE<br>M.S. in Learning Technologies<br><br></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
-          "_anchor": "menu-2g"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"socicon socicon-battlenet mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"portfolio.html\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>PORTFOLIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"coursework.html\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>COURSEWORK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writing.html\" aria-expanded=\"false\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>SCHOLARLY &nbsp;WRITING</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>ABOUT&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutme.html\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Contact Me</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "social-buttons2",
@@ -2682,21 +2682,21 @@
             "Theme"
           ],
           "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2h",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_anchor": "social-buttons4-2h"
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/villavance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/villavancephotography\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/vhielvance\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/villavance/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_name": "footer1",
@@ -2706,20 +2706,20 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
+          "_anchor": "footer1-2i",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>",
-          "_anchor": "footer1-2i"
+          "text": "Copyright (c) 2017 | <a href=\"http://www.villavance.com\" target=\"_blank\" class=\"text-danger\">VILLA R. VANCE</a>"
         }
       ]
     }
